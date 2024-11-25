@@ -1,4 +1,4 @@
 # demo
 This is my first Git Repositary
-<b>
+<br>
 Auther Pranjali Gavade
